@@ -5,8 +5,7 @@
 - 📫 How to reach me: [linkedin.com](https://www.linkedin.com/in/ali-nemati/) or [Telegram](https://t.me/nemati_ali) or [X.com](https://x.com/alinemati45)
 
 
-
 <!---
 alinemati-uwm/alinemati-uwm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
